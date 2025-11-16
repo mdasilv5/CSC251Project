@@ -13,6 +13,7 @@ public class PolicyHolder
     {
         this.firstName = holder.firstName;
         this.lastName  = holder.lastName;
+        this.age       = holder.age;
         this.smokingStatus = holder.smokingStatus;
         this.height    = holder.height;
         this.weight    = holder.weight;
